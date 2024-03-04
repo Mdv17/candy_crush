@@ -1,11 +1,17 @@
-import React from 'react'
+// const ScoreBoard = ({ score }) => {
+//   return (
+//     <div className="score-board">
+//       <h2>{score}</h2>
+//     </div>
+//   )
+// }
 
-const ScoreBoard = () => {
+// export default ScoreBoard
+
+export const ScoreBoard = ({ score }) => {
   return (
-    <div>
+    <div className="score-board">
       <h2>{score}</h2>
     </div>
   )
 }
-
-export default ScoreBoard
