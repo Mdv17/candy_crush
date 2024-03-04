@@ -1,5 +1,7 @@
-## Summary
-The project is a game similar to Candy Crush. App.jsx is a React functional component that implements a game board with candy-colored squares. It uses useState and useEffect hooks to manage the state of the game board and handle user interactions such as dragging and dropping squares. The component also checks for matches of three or four squares in a row or column and updates the score accordingly.
+# About The Project
+### The project is a game similar to Candy Crush. 
+
+Everything is implemented in App.jsx. App.jsx is a React functional component that implements a game board with candy-colored squares. It uses useState and useEffect hooks to manage the state of the game board and handle user interactions such as dragging and dropping squares. The component also checks for matches of three or four squares in a row or column and updates the score accordingly.
 
 ## Example Usage
 ```javascript
